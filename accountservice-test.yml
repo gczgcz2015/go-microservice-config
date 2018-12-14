@@ -1,3 +1,3 @@
 server_port: 6767
-server_name: Accountservice TEST
+server_name: GCZ Accountservice HAHA!
 zipkin.service.url: http://zipkin:9411
